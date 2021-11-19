@@ -1,0 +1,89 @@
+{
+    "name": "Luis",
+    "landing": {
+        "title": "Hi!👋🏻  I'm Luis",
+        "subtitles": [
+            "Full-stack developer 🌐",
+            "Open Source Enthusiast 📂"
+        ]
+    },
+    "skills": {
+        "Frontend tech": [
+            "javascript",
+            "html5",
+            "css3",
+            "React",
+            "nextdotjs",
+            "Material UI",
+            "Bootstrap"
+        ],
+        "Backend, Database and Cloud tech": [
+            "Nodedotjs",
+            "Express",
+            "MongoDB",
+            "PostgreSQL",
+            "Amazon AWS",
+            "Heroku",
+            "Firebase"
+        ],
+        "Other": [
+            "Windows terminal",
+            "Git",
+            "Github",
+            "Arduino",
+            "Raspberry Pi",
+            "Kali Linux"
+        ]
+    },
+    "projects": {
+        "baseURI": "https://api.github.com/repos/sdaewa/",
+        "repositories": [
+            "spaceflight-arduino",
+            "Track-IT",
+            "File-Processor",
+            "File-Processor-server",
+            "johnny-space-bot"
+        ]
+    },
+    "about": {
+        "description": "I have always been interested in technology, especially its under-the-hood workings. When I was young, I liked to take things apart, to try putting them back together. I am now interested in applying that same curiosity and problem-solving mindset to software engineering. I also have an interest in ethical hacking, prototyping electronics and 3D printing",
+        "picture": "/profile.jpg",
+        "social": [
+            {
+                "alt": "LinkedIn",
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/ramirezluis91"
+            },
+            {
+                "alt": "Github",
+                "icon": "github",
+                "link": "https://github.com/sdaewa"
+            },
+            {
+                "alt": "Email",
+                "icon": "gmail",
+                "link": "mailto:ramirezedluis@gmail.com"
+            }
+        ]
+    },
+    "theme": {
+        "light": {
+            "palette": {
+                "type": "light",
+                "background": {
+                    "paper": "#fff",
+                    "default": "#fafafa"
+                }
+            }
+        },
+        "dark": {
+            "palette": {
+                "type": "dark",
+                "background": {
+                    "paper": "#303030",
+                    "default": "#212121"
+                }
+            }
+        }
+    }
+}
