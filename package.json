@@ -12,6 +12,7 @@
     "prop-types": "latest",
     "react": "latest",
     "react-dom": "latest",
+    "react-lottie": "^1.2.3",
     "react-typed": "^1.2.0",
     "simple-icons": "^5.23.0",
     "webpack": "^5.64.1"

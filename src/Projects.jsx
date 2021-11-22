@@ -12,7 +12,7 @@ import {
   Typography,
 } from "@material-ui/core";
 import { RepoForkedIcon, RepoIcon, StarIcon } from "@primer/octicons-react";
-import Image from "next/image";
+import ProAni from "./animations/ProAni";
 import { useRef } from "react";
 import useAnimate from "./useAnimate";
 
@@ -50,7 +50,7 @@ export default function Projects({ data }) {
         <Hidden mdDown>
           <Fade in={animate} style={{ transitionDelay: "250ms" }}>
             <div>
-              <Image src="/projects.svg" width="1144" height="617.32" />
+              <ProAni />
             </div>
           </Fade>
         </Hidden>

@@ -8,8 +8,8 @@ import {
   useTheme,
 } from "@material-ui/core";
 import ReactTyped from "react-typed";
-import Image from "next/image";
 import data from "../data.json";
+import LandAni from "./animations/LandAni";
 const { landing } = data;
 
 const useStyles = makeStyles((theme) => ({
@@ -57,7 +57,7 @@ export default function Landing() {
       <Hidden mdDown>
         <Fade in={true} style={{ transitionDelay: "100ms" }}>
           <Grid item lg={6}>
-            <Image src="/landing.svg" width="900.94" height="787" />
+            <LandAni />
           </Grid>
         </Fade>
       </Hidden>
