@@ -45,7 +45,12 @@
             "Track-IT",
             "File-Processor",
             "File-Processor-server",
-            "johnny-space-bot"
+            "johnny-space-bot",
+            "portfolio",
+            "npm-xcoding",
+            "network_scanner",
+            "MAC_address_changer",
+            "ARP_spoofer"
         ]
     },
     "about": {
