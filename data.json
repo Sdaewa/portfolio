@@ -5,12 +5,11 @@
         "subtitles": [
             "Full-stack developer 🌐",
             "Open Source Enthusiast 📂",
-            "OSINT 🕵🏼‍♂️",
-            "Space nerd 🔭"
+            "OSINT 🕵🏼‍♂️"
         ]
     },
     "skills": {
-        "Frontend tech": [
+        "Frontend": [
             "javascript",
             "html5",
             "css3",
@@ -19,25 +18,25 @@
             "Material UI",
             "Bootstrap"
         ],
-        "Backend, Database and Cloud tech": [
+        "Backend": [
             "Nodedotjs",
-            "Express",
+            "Express"
+        ],
+        "Cloud Infrastructure": [
+            "Docker",
             "MongoDB",
-            "PostgreSQL",
+            "Github",
             "Amazon AWS",
             "Heroku",
             "Firebase"
         ],
         "Other": [
-            "Docker",
+            "Git",
             "Sonarqube",
             "Sentry",
             "Braze",
             "Figma",
-            "Git",
-            "Github",
-            "Arduino",
-            "Raspberry Pi",
+            "Arduino"
         ]
     },
     "projects": {
