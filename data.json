@@ -1,11 +1,11 @@
 {
     "name": "Luis",
     "landing": {
-        "title": "Oh, Hi! I'm Luis",
+        "title": "Hi! I'm Luis",
         "subtitles": [
             "Full-stack developer 🌐",
             "Open Source Enthusiast 📂",
-            "Maker 🛠",
+            "OSINT 🕵🏼‍♂️",
             "Space nerd 🔭"
         ]
     },
@@ -58,7 +58,7 @@
     },
     "about": {
         "description": "Having studied telecom engineering and psychology, I have previously worked with one of my passions, cycling and bikes.Playing around with some Arduino and coding since 2015, I decided to take it seriously in 2019; that's when I graduated from LeWagon bootcamp in London. Since then I have about 2 years and a half of studying more, building a ton of projects, learning about the open-source community, exploring CyberSec, VMs, OSINT, Linux, etc. Currently, I am working as a Full stack developer; and had discovered that I really enjoy building bespoke tools, analytical and data-intensive apps",
-        "picture": "/profile.jpg",
+        "picture": "/profile.png",
         "social": [
             {
                 "alt": "LinkedIn",
