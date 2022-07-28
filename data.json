@@ -15,7 +15,7 @@
             "html5",
             "css3",
             "React",
-            "nextdotjs",
+            "liquid.js",
             "Material UI",
             "Bootstrap"
         ],
@@ -29,7 +29,10 @@
             "Firebase"
         ],
         "Other": [
-            "Windows terminal",
+            "Docker",
+            "Sonarqube",
+            "Sentry",
+            "Braze",
             "Figma",
             "Git",
             "Github",
@@ -54,7 +57,7 @@
         ]
     },
     "about": {
-        "description": "I have always been interested in technology, especially its under-the-hood workings. When I was young, I liked to take things apart, to try putting them back together. I am now interested in applying that same curiosity and problem-solving mindset to software engineering. I also have an interest in ethical hacking, prototyping electronics and 3D printing",
+        "description": "Having studied telecom engineering and psychology, I have previously worked with one of my passions, cycling and bikes.Playing around with some Arduino and coding since 2015, I decided to take it seriously in 2019; that's when I graduated from LeWagon bootcamp in London. Since then I have about 2 years and a half of studying more, building a ton of projects, learning about the open-source community, exploring CyberSec, VMs, OSINT, Linux, etc. Currently, I am working as a Full stack developer; and had discovered that I really enjoy building bespoke tools, analytical and data-intensive apps",
         "picture": "/profile.jpg",
         "social": [
             {
