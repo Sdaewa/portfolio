@@ -114,5 +114,6 @@ export const skillsData = [
   "noSQL",
   "Git",
   "Apollo",
+  "APIs",
   "Docker",
 ] as const;
