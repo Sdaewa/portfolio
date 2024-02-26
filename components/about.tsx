@@ -28,8 +28,8 @@ export default function About() {
       <p>
         Beyond my professional endeavors, I dedicate time to unravel the
         intricacies of digital security and privacy, aiming to contribute to a
-        safer, more secure online ecosystem. Whether it's through developing
-        secure applications, engaging in ethical hacking to identify
+        safer, more secure online ecosystem. Whether it&apos;s through
+        developing secure applications, engaging in ethical hacking to identify
         vulnerabilities, or contributing to open-source projects, my goal is to
         leave a lasting impact on the tech industry. My journey is one of
         perpetual learning, where each project brings new challenges, and every
