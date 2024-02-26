@@ -16,16 +16,16 @@ export const links = [
     hash: "#about",
   },
   {
-    name: "Projects",
-    hash: "#projects",
-  },
-  {
     name: "Skills",
     hash: "#skills",
   },
   {
     name: "Experience",
     hash: "#experience",
+  },
+  {
+    name: "Projects",
+    hash: "#projects",
   },
   {
     name: "Contact",
@@ -92,19 +92,12 @@ export const projectsData = [
     imageUrl: feedio,
   },
   {
-    title: "AI Custom Knowlage Chat Bot",
+    title: "AI Custom Knowledge Chat Bot",
     description: `
     A white label solution for businesses that leverages AI to provide instant, accurate responses to customer inquiries
   `,
     tags: ["React", "LangChain", "Supabase", "openAI"],
     imageUrl: bankAI,
-  },
-  {
-    title: "Word Analytics",
-    description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
-    imageUrl: wordanalyticsImg,
   },
 ] as const;
 export const skillsData = [
